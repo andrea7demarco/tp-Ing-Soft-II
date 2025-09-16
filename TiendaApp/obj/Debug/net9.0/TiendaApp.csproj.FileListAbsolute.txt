@@ -1,0 +1,5 @@
+C:\Users\54381\Desktop\tp ing\tp-Ing-Soft-II\TiendaApp\obj\Debug\net9.0\TiendaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54381\Desktop\tp ing\tp-Ing-Soft-II\TiendaApp\obj\Debug\net9.0\TiendaApp.AssemblyInfoInputs.cache
+C:\Users\54381\Desktop\tp ing\tp-Ing-Soft-II\TiendaApp\obj\Debug\net9.0\TiendaApp.AssemblyInfo.cs
+C:\Users\54381\Desktop\tp ing\tp-Ing-Soft-II\TiendaApp\obj\Debug\net9.0\TiendaApp.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\tp ing\tp-Ing-Soft-II\TiendaApp\obj\Debug\net9.0\TiendaApp.sourcelink.json

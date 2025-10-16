@@ -1,4 +1,4 @@
-namespace Tienda.Excepciones
+namespace TiendaApp.Excepciones
 {
     public class ProductoException : Exception
     {

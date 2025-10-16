@@ -1,3 +1,4 @@
+using TiendaApp.Models;
 namespace TiendaApp.Services
 {
     public class TiendaServices

@@ -1,4 +1,4 @@
-namespace Producto.Models
+namespace TiendaApp.Models
 {
     public class Producto
     {
